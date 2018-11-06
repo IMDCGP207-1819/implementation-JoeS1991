@@ -1,1 +1,1 @@
-Make-Me-CryEngine will be 2D game engine to produce simple top-down racing games, see the design document for full details.
+Make-Me-CryEngine will be 2D game engine to produce simple top-down racing games, included in this respository will be a proof of concept game built using the engine, see the design document for full details.
